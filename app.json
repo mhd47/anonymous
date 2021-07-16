@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Nurutomo/wabot-aq",
+  "name": "by @mm.mahmudd",
+  "description": "Anonymous Chat",
+  "repository": "https://github.com/mhd47/anonymous",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
