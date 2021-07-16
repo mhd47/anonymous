@@ -1,8 +1,8 @@
-# wabot-aq
+# Anonymous Chat
 
-Simple WhatsApp Bot
+Just for fun
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mhd47/anonymous)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/mhd47/anonymous
-cd wabot-aq
+cd anonymous
 npm install
 npm update
 ```
