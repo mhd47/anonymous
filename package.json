@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/mhd47/anonymous",
   "author": {
-    "name": "Nurutomo"
+    "name": "@mm.mahmudd"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/mhd47/anonymous.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/mhd47/anonymous/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
