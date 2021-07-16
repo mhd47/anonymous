@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "Anonymous Chat",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "M3",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/mhd47/anonymous",
   "author": {
-    "name": "@mm.mahmudd"
+    "name": "by @mm.mahmudd"
   },
   "repository": {
     "type": "git",
